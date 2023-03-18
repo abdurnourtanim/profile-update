@@ -1,0 +1,12 @@
+{
+  "name": "profile",
+  "version": "1.0.0",
+  "description": "This is MERN stack login,register,logout and update profile page with email  otp verification.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abdur Nour Tanim",
+  "license": "ISC"
+}
